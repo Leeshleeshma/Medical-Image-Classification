@@ -1,0 +1,25 @@
+# Python environment and cache
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+.kaggle/
+access_token
+kaggle.json
+
+# Downloaded and preprocessed datasets
+data/
+
+# Trained model checkpoints (can be large)
+models/*.keras
+models/*.h5
+
+# OS files
+.DS_Store
+
+# Notebook temporary files
+*.pyc

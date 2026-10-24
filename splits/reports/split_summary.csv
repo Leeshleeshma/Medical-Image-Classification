@@ -1,0 +1,4 @@
+split,images,patients,NORMAL,PNEUMONIA,% NORMAL
+train,4181,2288,1081,3100,25.9
+validation,1051,573,268,783,25.5
+test,624,427,234,390,37.5

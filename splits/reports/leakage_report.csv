@@ -1,0 +1,2 @@
+old_train_images,old_val_images,patients_in_both,val_patients,val_images_with_same_patient_in_train,new_patients_in_both,test_patient_ids_also_in_train_or_val,test_images_with_those_ids
+4185,1047,512,874,668,0,170,320
